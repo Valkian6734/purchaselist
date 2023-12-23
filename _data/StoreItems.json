@@ -2834,7 +2834,7 @@
 	},
 	{
 		"abr": "genepack",
-		"price": 167,
+		"price": 750,
 		"category": "Misc",
 		"defname": "Genepack"
 	},
@@ -4088,13 +4088,13 @@
 	},
 	{
 		"abr": "alphapack",
-		"price": 167,
+		"price": 750,
 		"category": "Misc",
 		"defname": "AG_Alphapack"
 	},
 	{
 		"abr": "mixedpack",
-		"price": 167,
+		"price": 750,
 		"category": "Misc",
 		"defname": "AG_Mixedpack"
 	},
